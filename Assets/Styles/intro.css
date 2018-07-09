@@ -1,0 +1,42 @@
+.intro-div{
+  width: 30%;
+  height: 80%;
+  transform: translateX(66%);
+  justify-content:center;
+  align-content:center;
+}
+
+.intro-div h1{
+  color: white;
+  font-size: 3em;
+  font-weight: 400;
+  margin-bottom: 0%;
+  padding-top: 22%;
+}
+
+.intro-div h3{
+  color: #abb6be;
+  font-weight: 500;
+  font-size: 1.4em;
+  margin-top: 0%;
+  margin-bottom: 10%;
+}
+
+.intro-div button{
+  height: 9%;
+  width: 45%;
+  cursor: pointer;
+  transition: transform 0.2s;
+  font-size: 1em;
+}
+
+.intro-div img{
+  max-width: 95%;
+  max-height:95%;
+  width: auto;
+  height: auto;
+  padding-left: 20%;
+  padding-top: 20%;
+  transition: transform 0.3s;
+  cursor: pointer;
+}
